@@ -7,3 +7,5 @@ Requisitos do projeto:
 4. No rodapé, adicione um copyright com o ano atual.
 5. Aplique estilos à sua página usando classes do Bootstrap, como por exemplo as classes para cores de fundo e texto.
 6. Certifique-se de que sua página é responsiva e se adapta a diferentes tamanhos de tela.​
+
+URL GithubPages: https://marcelojob.github.io/p4-bootstrap/
